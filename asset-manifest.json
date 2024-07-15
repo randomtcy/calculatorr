@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/randomtcy.github.io/randomtcy.github.io.calculator/static/css/main.e6c13ad2.css",
-    "main.js": "/randomtcy.github.io/randomtcy.github.io.calculator/static/js/main.565e6bbb.js",
-    "static/js/453.18f08885.chunk.js": "/randomtcy.github.io/randomtcy.github.io.calculator/static/js/453.18f08885.chunk.js",
-    "index.html": "/randomtcy.github.io/randomtcy.github.io.calculator/index.html",
-    "main.e6c13ad2.css.map": "/randomtcy.github.io/randomtcy.github.io.calculator/static/css/main.e6c13ad2.css.map",
-    "main.565e6bbb.js.map": "/randomtcy.github.io/randomtcy.github.io.calculator/static/js/main.565e6bbb.js.map",
-    "453.18f08885.chunk.js.map": "/randomtcy.github.io/randomtcy.github.io.calculator/static/js/453.18f08885.chunk.js.map"
+    "main.css": "/randomtcy.github.io/calculatorr/static/css/main.e6c13ad2.css",
+    "main.js": "/randomtcy.github.io/calculatorr/static/js/main.17e38dab.js",
+    "static/js/453.18f08885.chunk.js": "/randomtcy.github.io/calculatorr/static/js/453.18f08885.chunk.js",
+    "index.html": "/randomtcy.github.io/calculatorr/index.html",
+    "main.e6c13ad2.css.map": "/randomtcy.github.io/calculatorr/static/css/main.e6c13ad2.css.map",
+    "main.17e38dab.js.map": "/randomtcy.github.io/calculatorr/static/js/main.17e38dab.js.map",
+    "453.18f08885.chunk.js.map": "/randomtcy.github.io/calculatorr/static/js/453.18f08885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.565e6bbb.js"
+    "static/js/main.17e38dab.js"
   ]
 }
